@@ -1,0 +1,146 @@
+Apr 11, 2011 8:06:50 PM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 11, 2011 8:22:14 PM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 11, 2011 8:22:16 PM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 11, 2011 8:22:18 PM MARC.RemoteHost.ClientMainWindoeForInitiating runHostServerToggleButtonActionPerformed
+INFO: Server Started
+Apr 11, 2011 8:22:18 PM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 11, 2011 8:22:21 PM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.246.141:2809](remote),objID:[314d405a:12f44f10af7:-7fff, 8328073593649856265]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 11, 2011 8:22:21 PM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 11, 2011 8:22:39 PM MARC.RemoteHost.ClientMainWindoeForInitiating admExitButtonActionPerformed
+INFO: Application exits
+Apr 11, 2011 8:31:24 PM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 11, 2011 8:31:26 PM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 11, 2011 8:31:27 PM MARC.RemoteHost.ClientMainWindoeForInitiating runHostServerToggleButtonActionPerformed
+INFO: Server Started
+Apr 11, 2011 8:31:28 PM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 11, 2011 8:31:31 PM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.246.141:2974](remote),objID:[ed8c0b1:12f44f96c69:-7fff, -1667645650362499690]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 11, 2011 8:31:31 PM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 11, 2011 8:31:38 PM MARC.myjavaproject.ViewerHelper.ViewerGUI jBtnCloseActionPerformed
+INFO: Viewer IP: 127.0.0.1, has been disconnected
+Apr 11, 2011 8:31:44 PM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.246.141:2974](remote),objID:[ed8c0b1:12f44f96c69:-7fff, -1667645650362499690]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 11, 2011 8:31:44 PM MARC.Administrator.ServerMainWindoeForInitiating connectButtonActionPerformed
+INFO: Viewer IP: 127.0.0.1, has been reconnected
+Apr 11, 2011 8:32:01 PM MARC.myjavaproject.ViewerHelper.ViewerGUI jBtnCloseActionPerformed
+INFO: Viewer IP: 127.0.0.1, has been disconnected
+Apr 11, 2011 8:32:08 PM MARC.Administrator.ServerMainWindoeForInitiating admExitButtonActionPerformed
+INFO: Application exits
+Apr 11, 2011 8:32:54 PM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 11, 2011 8:32:55 PM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 11, 2011 8:32:57 PM MARC.RemoteHost.ClientMainWindoeForInitiating runHostServerToggleButtonActionPerformed
+INFO: Server Started
+Apr 11, 2011 8:32:57 PM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 11, 2011 8:33:00 PM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.246.141:3008](remote),objID:[-3c6c31dc:12f44faca05:-7fff, -1459391194161436912]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 11, 2011 8:33:00 PM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 11, 2011 8:34:03 PM MARC.myjavaproject.ViewerHelper.ViewerGUI jBtnCloseActionPerformed
+INFO: Viewer IP: 127.0.0.1, has been disconnected
+Apr 11, 2011 8:34:18 PM MARC.Administrator.ServerMainWindoeForInitiating passOKButtonActionPerformed
+INFO:  User Account Information has been displayed . 
+Apr 11, 2011 8:34:34 PM MARC.Administrator.ServerMainWindoeForInitiating hidInfoTablButtonActionPerformed
+INFO:  User Account Information has been hided . 
+Apr 11, 2011 9:33:28 PM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 11, 2011 9:33:29 PM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 11, 2011 9:33:31 PM MARC.RemoteHost.ClientMainWindoeForInitiating runHostServerToggleButtonActionPerformed
+INFO: Server Started
+Apr 11, 2011 9:33:32 PM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 11, 2011 9:33:36 PM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.246.141:4828](remote),objID:[24e55dbe:12f45323d46:-7fff, -5356738808344589884]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 11, 2011 9:33:36 PM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 11, 2011 9:34:29 PM MARC.Administrator.ServerMainWindoeForInitiating admExitButtonActionPerformed
+INFO: Application exits
+Apr 11, 2011 9:52:00 PM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 11, 2011 9:52:01 PM MARC.myjavaproject.OpeningWindow_Panel StartAdminActionPerformed
+INFO: Administrator has been started
+Apr 11, 2011 9:52:03 PM MARC.Administrator.ServerMainWindoeForInitiating passOKButtonActionPerformed
+INFO:  User Account Information has been displayed . 
+Apr 11, 2011 9:53:25 PM MARC.Administrator.ServerMainWindoeForInitiating admExitButtonActionPerformed
+INFO: Application exits
+Apr 12, 2011 7:21:52 AM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 12, 2011 7:21:53 AM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 12, 2011 7:21:55 AM MARC.RemoteHost.ClientMainWindoeForInitiating runHostServerToggleButtonActionPerformed
+INFO: Server Started
+Apr 12, 2011 7:21:55 AM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 12, 2011 7:22:03 AM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.203.68:1869](remote),objID:[5fe4895c:12f474cefa5:-7fff, -5572077748752811903]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 12, 2011 7:22:03 AM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 12, 2011 7:24:45 AM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 12, 2011 7:24:46 AM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 12, 2011 7:24:47 AM MARC.RemoteHost.ClientMainWindoeForInitiating runHostServerToggleButtonActionPerformed
+INFO: Server Started
+Apr 12, 2011 7:24:48 AM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 12, 2011 7:24:52 AM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.203.68:1953](remote),objID:[-4d4da538:12f474f9179:-7fff, 6894475225223347741]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 12, 2011 7:24:52 AM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 12, 2011 7:26:00 AM MARC.Administrator.ServerMainWindoeForInitiating passOKButtonActionPerformed
+INFO:  User Account Information has been displayed . 
+Apr 12, 2011 7:26:14 AM MARC.Administrator.ServerMainWindoeForInitiating strHosButtonActionPerformed
+INFO: Host has been started from administrator
+Apr 12, 2011 7:26:17 AM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 12, 2011 7:26:50 AM MARC.Administrator.ServerMainWindoeForInitiating admExitButtonActionPerformed
+INFO: Application exits
+Apr 12, 2011 7:27:33 AM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 12, 2011 7:27:34 AM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 12, 2011 7:27:36 AM MARC.RemoteHost.ClientMainWindoeForInitiating strAdmButtonActionPerformed
+INFO: Administrator has been started from host
+Apr 12, 2011 7:27:44 AM MARC.Administrator.ServerMainWindoeForInitiating runAdmServerToggleButtonActionPerformed
+INFO: Server Started
+Apr 12, 2011 7:27:46 AM MARC.myjavaproject.Viewer.RMI.Viewer displayStatusAndUpdConnTable
+INFO: Viewer connected to Proxy[ServerInterface,RemoteObjectInvocationHandler[UnicastRef [liveRef: [endpoint:[172.17.203.68:2057](remote),objID:[6b2a707d:12f47524399:-7fff, -3813443076216303411]]]]]
+	authentication: enabled
+	encryption: desabled
+Apr 12, 2011 7:27:46 AM MARC.Administrator.AddNewPcGUI addPcOKButtonActionPerformed
+INFO: A New PC is trying to get connected
+Apr 12, 2011 7:28:08 AM MARC.Administrator.ServerMainWindoeForInitiating admExitButtonActionPerformed
+INFO: Application exits
+Apr 12, 2011 7:28:33 AM MARC.myjavaproject.main main
+INFO: Application has been started
+Apr 12, 2011 7:28:34 AM MARC.myjavaproject.OpeningWindow_Panel StartBothActionPerformed
+INFO: Administrator & Host has been started
+Apr 12, 2011 7:28:36 AM MARC.RemoteHost.ClientMainWindoeForInitiating runHostServerToggleButtonActionPerformed
+INFO: Server Started
