@@ -1,6 +1,6 @@
 # Java Remote Control
 
-Java Remote Control is a remote control program that can display a screen of another computer (via internet or network) on your screen. The program allows you to use your mouse and keyboard to control the other PC remotely. It means that you can work on a remote computer, as if you were sitting in front of it, right from your current location. The program allows you to work with different remote computers simultaneously, from anywhere in the world. The program is so fast and comfortable that you can even forget that you are working on a emote computer!
+Java Remote Control is a remote control program that can display a screen of another computer (via internet or network) on your screen. The program allows you to use your mouse and keyboard to control the other PC remotely. It means that you can work on a remote computer, as if you were sitting in front of it, right from your current location. The program allows you to work with different remote computers simultaneously, from anywhere in the world. The program is so fast and comfortable that you can even forget that you are working on a remote computer!
 
 
 # Project Implementation Details
